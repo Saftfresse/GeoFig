@@ -46,6 +46,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="classes\body\CBody.cs" />
+    <Compile Include="classes\body\CCuboid.cs" />
+    <Compile Include="classes\body\CPyramid.cs" />
+    <Compile Include="classes\body\CSphere.cs" />
+    <Compile Include="classes\plane\CCircle.cs" />
+    <Compile Include="classes\plane\CPlane.cs" />
+    <Compile Include="classes\CGeoFig.cs" />
+    <Compile Include="classes\plane\CRectangle.cs" />
+    <Compile Include="classes\plane\CTriangle.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
